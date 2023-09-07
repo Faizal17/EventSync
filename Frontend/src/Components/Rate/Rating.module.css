@@ -1,0 +1,10 @@
+.VRI {
+  display: flex;
+  flex-direction: column;
+}
+
+.HRI {
+  display: flex;
+  flex-direction: row;
+  align-items: center ;
+}

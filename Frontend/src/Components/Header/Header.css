@@ -1,0 +1,37 @@
+/* author: Faizal */
+#header .nav-link {
+  color: #ffd700 !important;
+}
+
+#header .nav-link:hover {
+  color: #8bb9fe !important;
+}
+
+li {
+  cursor: pointer;
+}
+
+/* author: Mehulkumar Bhunsadiya */
+.user-profile{
+  height: 1.5rem;
+}
+
+.EventDropdown {
+  .dropdown-title {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    color: #ffd700 !important;
+  }
+
+  .dropdown-title:hover {
+    color: #8bb9fe !important;
+  }
+
+  .dropdown-item {
+    color: #ffffff !important;
+  }
+
+  .dropdown-item:hover {
+    color: #ffd700 !important;
+  }
+}
